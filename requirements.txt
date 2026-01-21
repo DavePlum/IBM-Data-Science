@@ -1,4 +1,13 @@
-pandas
+# Minimal, indicative dependencies used across selected notebooks.
+# Individual labs may require additional packages.
+
+beautifulsoup4
 dash
+folium
+matplotlib
+numpy
+pandas
 plotly
-jupyter-dash
+scikit-learn
+seaborn
+sqlalchemy
